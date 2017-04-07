@@ -1,0 +1,3 @@
+# ArduCAM_OV562
+The example code provided here allows you to send photos from ArduCAM OV562 connected to an Arduino to a Processing Sketch on your desktop via serial.
+
