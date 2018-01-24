@@ -42,7 +42,7 @@ void draw() {
   text("Help:", 20, height-80);
   text("- Press key 1-7 to change image resolution", 30, height-60);
   text("- Press key S to capture a still photo", 30, height-40);
-  text("- Press key C to enable/disable StopMotion capture", 30, height-20);
+  text("- Press key C to enable/disable Continuous Capture", 30, height-20);
 }
 
 
